@@ -22,12 +22,3 @@ pip install -r requirements.txt
 
 Run the Main ScriptExecute the main Python script to start the application:  
 python main.py
-
-
-
-Troubleshooting
-
-Ensure you have the correct Python version installed.
-If you encounter issues with requirements.txt, verify that all packages are compatible with your Python version.
-
-For additional help, please refer to the project documentation or contact the maintainers.
